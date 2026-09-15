@@ -1,0 +1,20 @@
+# Terraform
+**/.terraform/*
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Fichiers d'infos générés
+infos_ec2.txt
+
+# Secrets
+*.pem
+.secrets/
