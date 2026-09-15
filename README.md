@@ -1,4 +1,4 @@
-# Terraform Modular Web Deploy
+# Terraform Modular Web Deploy on AWS
 
 Infrastructure-as-Code project that provisions a web server on AWS using a **modular Terraform** design and a **remote S3 backend** with state locking.
 
